@@ -1,5 +1,10 @@
 from rest_framework_gis import serializers
 from rest_framework import serializers as s
+from rest_framework import serializers as s
+from rest_framework import serializers as s
+from rest_framework import serializers as s
+from rest_framework import serializers as s
+from rest_framework import serializers as s
 
 from .models import (
     Artificialisee2015to2018,
